@@ -46,4 +46,4 @@ st.write(f"**Ambata:** {ambata}")
 st.write(f"**Ambi:** {terzo_bari} – {terzo_cagliari}")
 st.write(f"**Terna:** {ambata} – {terzo_bari} – {terzo_cagliari}")
 st.info("**Ruote consigliate:** Bari, Cagliari, Nazionale")
-Aggiunge app Lotto
+
